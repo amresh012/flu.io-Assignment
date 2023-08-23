@@ -2,7 +2,7 @@
 Internship Assignment
 
 # Website Content Scraper
-
+#Que-2-solution.py
 This Python program allows you to retrieve social links, email addresses, and contact details from a given website URL. It uses the `requests` library to fetch the HTML content of the website and the `BeautifulSoup` library to parse the HTML.
 
 ## Prerequisites
