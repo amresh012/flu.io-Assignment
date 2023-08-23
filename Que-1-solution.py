@@ -1,11 +1,11 @@
 import re
 
 def is_valid_contact_number(number):
-    # Define the regular expression pattern for valid contact numbers
+    # Defining the regular expression pattern for valid of contact numbers
     pattern = r'^(\+?\d{0,2})?[-.\s]?\(?\d{1,4}\)?[-.\s]?\d{2,5}[-.\s]?\d{2,5}$'
     
-    # Check if the number matches the pattern
-    if re.match(pattern, number):
+    # Checking if the number matches the pattern
+    if re.match(pattern, number): #
         return True
     else:
         return False
