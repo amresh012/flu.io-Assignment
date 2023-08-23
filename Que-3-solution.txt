@@ -1,0 +1,7 @@
+1-Reverse-i-search in a Linux terminal is a feature that allows users to search through their command history  in reverse chronological order.
+
+2- command to list hidden directories:-- ls -d .*/`
+
+3-I am very familiar with ubantu OS.
+
+4-I used and very much familiar with Apache Servers. 
